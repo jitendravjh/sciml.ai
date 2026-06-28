@@ -197,7 +197,7 @@ solvers in a standard SciMLBenchmarks benchmark build.
 
 **Reviewers**: Chris Rackauckas
 
-## Fix and Update the AdaptiveSDE Benchmark Set (\$400)
+## Fix and Update the AdaptiveSDE Benchmark Set (\$200)
 
 **In Progress**: Claimed by Jitendra Verma for the time period of June 19, 2026 - July 19, 2026.
 
